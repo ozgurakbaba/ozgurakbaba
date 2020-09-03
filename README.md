@@ -12,5 +12,5 @@ To learn more, check out [ozgurakbaba.com](https://ozgurakbaba.com)
 
 ---
 
-“If you want something new, you have to stop doing something old.”
-Peter Drucker
+_“If you want something new, you have to stop doing something old.”
+Peter Drucker_
