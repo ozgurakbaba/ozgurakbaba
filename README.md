@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Ozgur, an experienced software engineer who is passionate about user experience, interface design and technical SEO. 
+I'm Ozgur, an experienced front end web engineer who is passionate about user experience, interface design and technical SEO. 
 I love to build and experiment with consumer-facing web products that are fast, scalable and easy to use!
 
 * HTML, CSS, JavaScript, C#, .NET, Node and React 👨‍💻
