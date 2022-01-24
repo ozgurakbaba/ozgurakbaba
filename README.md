@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Ozgur, an experienced front end engineer who is passionate about UI/UX development and technical SEO. 
+I'm Ozgur, an experienced frontend engineer who is passionate about UI/UX development and technical SEO. 
 I love building and experimenting with consumer-facing digital products and services which are meaningful, user-centric, fast and scalable!
 
 * HTML, CSS, JavaScript, React, Next.js, .NET (C#, VB), SQL (MySQL, MsSQL), Node.js, Express and MongoDB 👨‍💻
