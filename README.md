@@ -1,12 +1,15 @@
 ### Hey there 👋
 
-I'm Ozgur, an experienced frontend engineer who is passionate about UI/UX development and technical SEO. 
-I love building and experimenting with consumer-facing digital products and services which are meaningful, user-centric, fast and scalable!
+I'm Ozgur, an experienced frontend engineer who is passionate about building scalable, accessible, performant, and user centric digital (web) products, services, and consumer experiences!
 
-* HTML, CSS, JavaScript (ES6), TypeScript, Next.js, React, and Node.js 👨‍💻
-* Lately, experimenting with Docker, Kubernetes, Storybook, Web Components, Test-Driven Development (TDD), Accessibility (a11y), Core Web Vitals (CWV), GraphQL, NoSQL databases, and Augmented Reality (AR) SDKs (ARKit, ARCore, and Niantic Lightship) 💭
+Areas of Expertise: 
+Web Software Development, UI/UX Development, System Architecture and Design, Design System Development, POC/MVP Development, Wireframing, Prototyping, Technical Program Management (TPM)
 
-A true believer and follower of XR (Extended Reality) technologies as the next emerging development platform of “creative storytelling, production and experience marketing”.
+* HTML, CSS, Next.js, React, TypeScript, JavaScript (ES6), and Node.js 👨‍💻
+* Lately, working with WebGL, WebXR, Three.js, React Three Fiber, Docker, Kubernetes (k8s), and Augmented Reality (AR) SDKs (ARCore, ARKit, and Niantic Lightship) 💭
+* Interested in Generative AI (GAI), Natural User Interface (NUI), Web Components, Test-Driven Development (TDD), Accessibility (a11y), Core Web Vitals (CWV), and Design Systems
+
+A true believer and follower of Spatial Computing and XR (Extended Reality) technologies as the next frontier of immersive social platforms for “creative storytelling, production and user experiences”.
 
 To learn more, check out [ozgurakbaba.com](https://ozgurakbaba.com)
 
