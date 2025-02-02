@@ -4,9 +4,9 @@ I'm Ozgur, an experienced frontend engineer who is passionate about building sca
 
 • Areas of Expertise: Web Application (SPA/PWA) Development, Web Software Development, UI/UX Development, System Design, POC/MVP Development, Wireframing, Prototyping, Technical Program Management (TPM)
 
-• Technical Skills: HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js, Node.js, SQL (PostgreSQL, MySQL, MSSQL), and .NET (C#)
+• Technical Skills: HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js, Node.js, SQL (PostgreSQL, MySQL), and .NET (C#)
 
-• Current Focus (Lately): Docker, Kubernetes (k8s), gRPC, WebGL, WebGPU, WebXR, Three.js, React Three Fiber, and Augmented Reality (AR) SDKs (ARCore, ARKit, and Niantic Lightship)
+• Current Focus (Lately): WebGL, WebGPU, WebXR, Three.js, React Three Fiber, Docker, Kubernetes (k8s), gRPC, and Augmented Reality (AR) SDKs (ARCore, ARKit, and Niantic Lightship)
 
 • Interests: Natural User Interface (NUI), WebAI, Web Components, WebAssembly (WASM), Accessibility (a11y), Core Web Vitals (CWV), and Design Systems
 
